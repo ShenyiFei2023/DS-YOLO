@@ -1,0 +1,8 @@
+# dataset path
+path: dataset/SARSHIP-COCO
+train: images/strain
+val: images/sval
+test: images/stest
+
+nc: 1
+names: ['ship']
